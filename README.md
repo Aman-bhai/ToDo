@@ -5,8 +5,6 @@ A simple TODO application built with React for the frontend and MongoDB for the 
 ## Features
 
 - Add new TODO items
-- Mark TODO items as completed
-- Update TODO items
 - Delete TODO items
 - Persistent storage with MongoDB
 
@@ -15,7 +13,8 @@ A simple TODO application built with React for the frontend and MongoDB for the 
 - **Frontend**: React
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Styling**: CSS/SCSS (or use your preferred styling method)
+- **Styling**: CSS
+  
 
 ## Getting Started
 
